@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cn.team.nfaqd.NfaQdApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.683 s - in cn.team.nfaqd.NfaQdApplicationTests

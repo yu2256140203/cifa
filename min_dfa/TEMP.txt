@@ -1,0 +1,8 @@
+2
+a b
+5
+A B C D E
+A
+1
+E
+B C    B D   B C   B E    B C//如果没有，就是#号
